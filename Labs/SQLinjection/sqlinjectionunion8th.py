@@ -3,7 +3,7 @@
 import urllib.parse
 import requests
 
-
+# SQL injection attack, listing the database contents on Oracle
 
 link = "https://0aaf00080389bd57c01f8f6b00200004.web-security-academy.net/filter?category=Pets"
 payload={}
